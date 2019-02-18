@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="now_playing_progress_bar_primary_color">#D2D2D2</color>
+    <color name="now_playing_progress_bar_second_color">#ff00ff</color>
+    <color name="black">#000</color>
+</resources>
